@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/.idea/
+TestMavenGitGroup1_2021.iml
